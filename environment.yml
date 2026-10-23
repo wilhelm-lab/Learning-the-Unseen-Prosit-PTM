@@ -1,0 +1,14 @@
+name: prosit-ptm-figures
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas=2.3
+  - numpy=1.26
+  - matplotlib=3.10
+  - seaborn=0.13
+  - scipy=1.17
+  - pyarrow
+  - openpyxl
+  - requests
+  - jupyter

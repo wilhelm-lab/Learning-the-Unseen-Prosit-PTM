@@ -1,0 +1,4 @@
+figures/data/
+figures/regenerated_panels/
+.ipynb_checkpoints/
+__pycache__/
